@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4E24B40D2A2FDD9500827BBC /* PathDirectable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E24B40C2A2FDD9500827BBC /* PathDirectable.swift */; };
 		4E49DFDA2A2A4FBD00C9EDD0 /* Api.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E49DFD92A2A4FBD00C9EDD0 /* Api.swift */; };
 		4E49DFDC2A2A540600C9EDD0 /* RootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E49DFDB2A2A540600C9EDD0 /* RootViewController.swift */; };
 		4E49DFDF2A2A59FC00C9EDD0 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4E49DFE12A2A59FC00C9EDD0 /* Localizable.strings */; };
@@ -44,6 +45,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4E24B40C2A2FDD9500827BBC /* PathDirectable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathDirectable.swift; sourceTree = "<group>"; };
 		4E49DFD92A2A4FBD00C9EDD0 /* Api.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api.swift; sourceTree = "<group>"; };
 		4E49DFDB2A2A540600C9EDD0 /* RootViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootViewController.swift; sourceTree = "<group>"; };
 		4E49DFE02A2A59FC00C9EDD0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
@@ -129,6 +131,7 @@
 				4E6409E729D62932002BE563 /* Assets.xcassets */,
 				4E6409E929D62932002BE563 /* LaunchScreen.storyboard */,
 				4E6409EC29D62932002BE563 /* Info.plist */,
+				4E24B40C2A2FDD9500827BBC /* PathDirectable.swift */,
 			);
 			path = Piazza;
 			sourceTree = "<group>";
@@ -293,6 +296,7 @@
 				4E49DFF32A2A63D300C9EDD0 /* ViewControllerVendor.swift in Sources */,
 				4E49DFE72A2A5BBA00C9EDD0 /* RoutingController.swift in Sources */,
 				4E49DFDC2A2A540600C9EDD0 /* RootViewController.swift in Sources */,
+				4E24B40D2A2FDD9500827BBC /* PathDirectable.swift in Sources */,
 				4E49DFE52A2A5B9F00C9EDD0 /* BaseNavigationController.swift in Sources */,
 				4E6409E129D62932002BE563 /* SceneDelegate.swift in Sources */,
 				4E49DFEF2A2A5DA400C9EDD0 /* Global.swift in Sources */,

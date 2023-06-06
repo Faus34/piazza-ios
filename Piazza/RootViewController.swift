@@ -43,7 +43,7 @@ extension RootViewController {
         Tab(url: Api.rootURL, icon: "bookmark.fill", titleKey: "tab.savedAds"),
         Tab(url: Api.rootURL, icon: "message.fill", titleKey: "tab.messages"),
         Tab(url: Api.rootURL, icon: "rectangle.stack.badge.person.crop.fill", titleKey: "tab.myAds"),
-        Tab(url: Api.Path.login, icon: "person.fill", titleKey: "tab.profile")
+        Tab(url: Api.Path.profile, icon: "person.fill", titleKey: "tab.profile")
     ]
     
     struct Tab {

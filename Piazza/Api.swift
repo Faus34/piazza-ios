@@ -17,5 +17,6 @@ struct Api {
     
     struct Path {
         static let login = Api.rootURL.appendingPathComponent("login")
+        static let profile = Api.rootURL.appendingPathComponent("profile")
     }
 }
